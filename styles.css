@@ -58,18 +58,14 @@
 
     /*Heading styles*/
  
-    section h2 {
-        font-family: 'Montserrat', sans-serif;
-        padding: 0px 0;
-        font-size:14px; height:50px;
-        font-weight: normal;
-    }
-
     h2 {
+        font-family: 'Montserrat', sans-serif;
+        font-size:28px; height:100px;
+        font-weight: normal;
         margin: 0px;
         padding-top: 20px;
         padding-right: 0px;
         padding-bottom: 10px;
         padding-left: 20px;
         color: #edf0f1;
-  }
+    }
